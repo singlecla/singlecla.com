@@ -1,0 +1,16 @@
+html {
+  line-height: 1.37;
+}
+
+header, main, footer {
+  margin: 0 auto;
+  max-width: 37rem;
+}
+
+a[href] { text-decoration: none; }
+a[href]:hover { text-decoration: none; }
+
+footer {
+  font-size: 85%;
+  text-align: right;
+}
